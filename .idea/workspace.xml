@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feac827b-8f12-452c-a78f-24c3a7667239" name="Default" comment="" />
+    <list default="true" id="feac827b-8f12-452c-a78f-24c3a7667239" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_arrays.rb" afterPath="$PROJECT_DIR$/about_arrays.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="koans.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +29,7 @@
       <file leaf-file-name="about_arrays.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about_arrays.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="5" selection-start="735" selection-end="735" vertical-scroll-proportion="0.50473183" vertical-offset="0" max-vertical-offset="1350">
+            <state line="83" column="3" selection-start="1990" selection-end="1990" vertical-scroll-proportion="0.8895899" vertical-offset="399" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
@@ -259,7 +263,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/about_arrays.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="5" selection-start="735" selection-end="735" vertical-scroll-proportion="0.50473183" vertical-offset="0" max-vertical-offset="1350">
+        <state line="83" column="3" selection-start="1990" selection-end="1990" vertical-scroll-proportion="0.8895899" vertical-offset="399" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
