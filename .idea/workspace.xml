@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="feac827b-8f12-452c-a78f-24c3a7667239" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_array_assignment.rb" afterPath="$PROJECT_DIR$/about_array_assignment.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_hashes.rb" afterPath="$PROJECT_DIR$/about_hashes.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="koans.iws" />
@@ -35,10 +35,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_array_assignment.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about_array_assignment.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_array_assignment.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="27" selection-start="1440" selection-end="1440" vertical-scroll-proportion="0.7570978" vertical-offset="0" max-vertical-offset="951">
+            <state line="48" column="27" selection-start="1440" selection-end="1440" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_hashes.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_hashes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="111" column="36" selection-start="2892" selection-end="2892" vertical-scroll-proportion="0.82649845" vertical-offset="879" max-vertical-offset="1830">
               <folding />
             </state>
           </provider>
@@ -59,6 +68,7 @@
       <list>
         <option value="$PROJECT_DIR$/about_arrays.rb" />
         <option value="$PROJECT_DIR$/about_array_assignment.rb" />
+        <option value="$PROJECT_DIR$/about_hashes.rb" />
       </list>
     </option>
   </component>
@@ -119,6 +129,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -232,7 +246,11 @@
       <created>1394507747636</created>
       <updated>1394507747636</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed about_arrays_assignment&#10;&#10;">
+      <created>1394508104194</created>
+      <updated>1394508104194</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -273,7 +291,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Completed about_arrays&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed about_arrays&#10;" />
+    <MESSAGE value="Completed about_arrays_assignment&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed about_arrays_assignment&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -288,7 +307,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_array_assignment.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="27" selection-start="1440" selection-end="1440" vertical-scroll-proportion="0.7570978" vertical-offset="0" max-vertical-offset="951">
+        <state line="48" column="27" selection-start="1440" selection-end="1440" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_hashes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="36" selection-start="2892" selection-end="2892" vertical-scroll-proportion="0.82649845" vertical-offset="879" max-vertical-offset="1830">
           <folding />
         </state>
       </provider>
