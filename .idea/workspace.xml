@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="40be0a1f-b27f-4fb3-8aaa-7c015650da95" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_methods.rb" afterPath="$PROJECT_DIR$/about_methods.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_keyword_arguments.rb" afterPath="$PROJECT_DIR$/about_keyword_arguments.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="koans.iws" />
@@ -54,10 +54,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_methods.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about_methods.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_methods.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="146" column="30" selection-start="3672" selection-end="3672" vertical-scroll-proportion="0.8895899" vertical-offset="1344" max-vertical-offset="2355">
+            <state line="146" column="30" selection-start="3672" selection-end="3672" vertical-scroll-proportion="0.0" vertical-offset="1344" max-vertical-offset="2355">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_keyword_arguments.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_keyword_arguments.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="0" selection-start="814" selection-end="814" vertical-scroll-proportion="0.40453073" vertical-offset="0" max-vertical-offset="927">
               <folding />
             </state>
           </provider>
@@ -80,6 +89,7 @@
         <option value="$PROJECT_DIR$/about_symbols.rb" />
         <option value="$PROJECT_DIR$/about_regular_expressions.rb" />
         <option value="$PROJECT_DIR$/about_methods.rb" />
+        <option value="$PROJECT_DIR$/about_keyword_arguments.rb" />
       </list>
     </option>
   </component>
@@ -181,7 +191,11 @@
       <created>1394912372875</created>
       <updated>1394912372875</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed about method files&#10;">
+      <created>1394913445356</created>
+      <updated>1394913445356</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -224,7 +238,8 @@
     <MESSAGE value="Completed about_strings (pretty big file)&#10;" />
     <MESSAGE value="Completed about_symbols (saw how it's different than strings)&#10;" />
     <MESSAGE value="Completed about regex file&#10;&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed about regex file&#10;&#10;" />
+    <MESSAGE value="Completed about method files&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed about method files&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -253,7 +268,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_methods.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="30" selection-start="3672" selection-end="3672" vertical-scroll-proportion="0.8895899" vertical-offset="1344" max-vertical-offset="2355">
+        <state line="146" column="30" selection-start="3672" selection-end="3672" vertical-scroll-proportion="0.0" vertical-offset="1344" max-vertical-offset="2355">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_keyword_arguments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="814" selection-end="814" vertical-scroll-proportion="0.40453073" vertical-offset="0" max-vertical-offset="927">
           <folding />
         </state>
       </provider>
