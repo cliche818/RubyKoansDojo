@@ -63,13 +63,13 @@ class AboutConstants < Neo::Koan
   end
 
   def test_who_wins_with_both_nested_and_inherited_constants
-    assert_equal 4, MyAnimals::Bird.new.legs_in_bird
+    assert_equal 2, MyAnimals::Bird.new.legs_in_bird
   end
 
   # QUESTION: Which has precedence: The constant in the lexical scope,
   # or the constant from the inheritance hierarchy?
 
-  # constant from inheritance hierachy has precedence
+  # constant from lexical scope has precedence
 
   # ------------------------------------------------------------------
 
@@ -80,14 +80,14 @@ class AboutConstants < Neo::Koan
   end
 
   def test_who_wins_with_explicit_scoping_on_class_definition
-    assert_equal 2, MyAnimals::Oyster.new.legs_in_oyster
+    assert_equal 4, MyAnimals::Oyster.new.legs_in_oyster
   end
 
   # QUESTION: Now which has precedence: The constant in the lexical
   # scope, or the constant from the inheritance hierarchy?  Why is it
   # different than the previous answer?
 
-  # constant in the lexical scope now has precedence because
-  # MyAnimals::Oyster is in the global scope unlike the previous example
-  # where the compiler is in the Bird scope
+  # constant in inheritance hierarchy scope now has precedence because
+  # MyAnimals::Oyster is in the same scope...so hard to describe this
+
 end
