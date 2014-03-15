@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="40be0a1f-b27f-4fb3-8aaa-7c015650da95" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_symbols.rb" afterPath="$PROJECT_DIR$/about_symbols.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_regular_expressions.rb" afterPath="$PROJECT_DIR$/about_regular_expressions.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="koans.iws" />
@@ -21,6 +21,7 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="koans" />
   </component>
@@ -35,10 +36,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_symbols.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about_symbols.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_symbols.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="45" selection-start="2239" selection-end="2239" vertical-scroll-proportion="0.5741325" vertical-offset="609" max-vertical-offset="1650">
+            <state line="102" column="29" selection-start="3043" selection-end="3043" vertical-scroll-proportion="0.0" vertical-offset="609" max-vertical-offset="1650">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_regular_expressions.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_regular_expressions.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="166" column="25" selection-start="5156" selection-end="5156" vertical-scroll-proportion="0.92113566" vertical-offset="1614" max-vertical-offset="2625">
               <folding />
             </state>
           </provider>
@@ -59,6 +69,7 @@
       <list>
         <option value="$PROJECT_DIR$/about_strings.rb" />
         <option value="$PROJECT_DIR$/about_symbols.rb" />
+        <option value="$PROJECT_DIR$/about_regular_expressions.rb" />
       </list>
     </option>
   </component>
@@ -119,6 +130,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -151,7 +163,11 @@
       <created>1394681388055</created>
       <updated>1394681388055</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed about_symbols (saw how it's different than strings)&#10;">
+      <created>1394682399444</created>
+      <updated>1394682399444</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -192,7 +208,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Completed about_strings (pretty big file)&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed about_strings (pretty big file)&#10;" />
+    <MESSAGE value="Completed about_symbols (saw how it's different than strings)&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed about_symbols (saw how it's different than strings)&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -207,7 +224,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_symbols.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="45" selection-start="2239" selection-end="2239" vertical-scroll-proportion="0.5741325" vertical-offset="609" max-vertical-offset="1650">
+        <state line="102" column="29" selection-start="3043" selection-end="3043" vertical-scroll-proportion="0.0" vertical-offset="609" max-vertical-offset="1650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_regular_expressions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="166" column="25" selection-start="5156" selection-end="5156" vertical-scroll-proportion="0.92113566" vertical-offset="1614" max-vertical-offset="2625">
           <folding />
         </state>
       </provider>
