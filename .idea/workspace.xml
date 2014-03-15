@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="40be0a1f-b27f-4fb3-8aaa-7c015650da95" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_true_and_false.rb" afterPath="$PROJECT_DIR$/about_true_and_false.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triangle.rb" afterPath="$PROJECT_DIR$/triangle.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="koans.iws" />
@@ -90,10 +90,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_true_and_false.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about_true_and_false.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_true_and_false.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="28" selection-start="789" selection-end="789" vertical-scroll-proportion="0.46925566" vertical-offset="0" max-vertical-offset="927">
+            <state line="33" column="0" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_triangle_project.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_triangle_project.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="0" selection-start="743" selection-end="743" vertical-scroll-proportion="0.3488372" vertical-offset="0" max-vertical-offset="903">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="triangle.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/triangle.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="12" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -120,6 +138,7 @@
         <option value="$PROJECT_DIR$/about_constants.rb" />
         <option value="$PROJECT_DIR$/about_control_statements.rb" />
         <option value="$PROJECT_DIR$/about_true_and_false.rb" />
+        <option value="$PROJECT_DIR$/triangle.rb" />
       </list>
     </option>
   </component>
@@ -264,7 +283,11 @@
       <created>1394915325042</created>
       <updated>1394915325042</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Completed about true and false&#10;">
+      <created>1394915447890</created>
+      <updated>1394915447890</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -312,7 +335,8 @@
     <MESSAGE value="Completed about constants arguments in methods&#10;" />
     <MESSAGE value="Fixed about_constants, last 2 test cases&#10;" />
     <MESSAGE value="Completed about control statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed about control statements" />
+    <MESSAGE value="Completed about true and false&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed about true and false&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -369,7 +393,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_true_and_false.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="28" selection-start="789" selection-end="789" vertical-scroll-proportion="0.46925566" vertical-offset="0" max-vertical-offset="927">
+        <state line="33" column="0" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triangle.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="12" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_triangle_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="743" selection-end="743" vertical-scroll-proportion="0.3488372" vertical-offset="0" max-vertical-offset="903">
           <folding />
         </state>
       </provider>
