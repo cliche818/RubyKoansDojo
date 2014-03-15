@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40be0a1f-b27f-4fb3-8aaa-7c015650da95" name="Default" comment="Completed about exceptions">
+    <list default="true" id="40be0a1f-b27f-4fb3-8aaa-7c015650da95" name="Default" comment="Wrote the implementation for triangle class to handle incorrect triangles">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triangle.rb" afterPath="$PROJECT_DIR$/triangle.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_iteration.rb" afterPath="$PROJECT_DIR$/about_iteration.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="koans.iws" />
@@ -45,10 +45,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="triangle.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="triangle.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/triangle.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="67" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.6309148" vertical-offset="0" max-vertical-offset="951">
+            <state line="47" column="0" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_iteration.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_iteration.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="129" column="3" selection-start="3758" selection-end="3758" vertical-scroll-proportion="0.96763754" vertical-offset="1038" max-vertical-offset="2040">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_sandwich_code.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_sandwich_code.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example_file.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example_file.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
@@ -77,6 +104,7 @@
         <option value="$PROJECT_DIR$/about_true_and_false.rb" />
         <option value="$PROJECT_DIR$/about_exceptions.rb" />
         <option value="$PROJECT_DIR$/triangle.rb" />
+        <option value="$PROJECT_DIR$/about_iteration.rb" />
       </list>
     </option>
   </component>
@@ -233,7 +261,11 @@
       <created>1394916149618</created>
       <updated>1394916149618</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Wrote the implementation for triangle class to handle incorrect triangles">
+      <created>1394917394855</created>
+      <updated>1394917394855</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -284,7 +316,8 @@
     <MESSAGE value="Completed about true and false&#10;" />
     <MESSAGE value="Wrote the implementation for triangle class, passes all units tests in about_triangle&#10;" />
     <MESSAGE value="Completed about exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed about exceptions" />
+    <MESSAGE value="Wrote the implementation for triangle class to handle incorrect triangles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrote the implementation for triangle class to handle incorrect triangles" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -354,13 +387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_triangle_project.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="57" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_triangle_project_2.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="51" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
@@ -368,9 +394,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about_triangle_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="57" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="951">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/triangle.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="67" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.6309148" vertical-offset="0" max-vertical-offset="951">
+        <state line="47" column="0" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_sandwich_code.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_iteration.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="3" selection-start="3758" selection-end="3758" vertical-scroll-proportion="0.96763754" vertical-offset="1038" max-vertical-offset="2040">
           <folding />
         </state>
       </provider>
