@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40be0a1f-b27f-4fb3-8aaa-7c015650da95" name="Default" comment="">
+    <list default="true" id="40be0a1f-b27f-4fb3-8aaa-7c015650da95" name="Default" comment="Wrote the implementation for triangle class, passes all units tests in about_triangle&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triangle.rb" afterPath="$PROJECT_DIR$/triangle.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_exceptions.rb" afterPath="$PROJECT_DIR$/about_exceptions.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="koans.iws" />
@@ -27,15 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_strings.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_strings.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="173" column="52" selection-start="4838" selection-end="4838" vertical-scroll-proportion="0.0" vertical-offset="2094" max-vertical-offset="3105">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="about_symbols.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_symbols.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,10 +90,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_triangle_project.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about_triangle_project.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_triangle_project.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="743" selection-end="743" vertical-scroll-proportion="0.3488372" vertical-offset="0" max-vertical-offset="903">
+            <state line="21" column="0" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_exceptions.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_exceptions.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="31" selection-start="1612" selection-end="1612" vertical-scroll-proportion="0.8006644" vertical-offset="207" max-vertical-offset="1110">
               <folding />
             </state>
           </provider>
@@ -139,6 +139,7 @@
         <option value="$PROJECT_DIR$/about_control_statements.rb" />
         <option value="$PROJECT_DIR$/about_true_and_false.rb" />
         <option value="$PROJECT_DIR$/triangle.rb" />
+        <option value="$PROJECT_DIR$/about_exceptions.rb" />
       </list>
     </option>
   </component>
@@ -287,7 +288,11 @@
       <created>1394915447890</created>
       <updated>1394915447890</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Wrote the implementation for triangle class, passes all units tests in about_triangle&#10;">
+      <created>1394915736733</created>
+      <updated>1394915736733</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -336,7 +341,9 @@
     <MESSAGE value="Fixed about_constants, last 2 test cases&#10;" />
     <MESSAGE value="Completed about control statements" />
     <MESSAGE value="Completed about true and false&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed about true and false&#10;" />
+    <MESSAGE value="Wrote the implementation for triangle class, passes all units tests in about_triangle&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrote the implementation for triangle class, passes all units tests in about_triangle&#10;" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -407,7 +414,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_triangle_project.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="743" selection-end="743" vertical-scroll-proportion="0.3488372" vertical-offset="0" max-vertical-offset="903">
+        <state line="21" column="0" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_exceptions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="31" selection-start="1612" selection-end="1612" vertical-scroll-proportion="0.8006644" vertical-offset="207" max-vertical-offset="1110">
           <folding />
         </state>
       </provider>
