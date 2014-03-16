@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40be0a1f-b27f-4fb3-8aaa-7c015650da95" name="Default" comment="Completed about_iteration">
+    <list default="true" id="40be0a1f-b27f-4fb3-8aaa-7c015650da95" name="Default" comment="Completed about_blocks">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_blocks.rb" afterPath="$PROJECT_DIR$/about_blocks.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_iteration.rb" afterPath="$PROJECT_DIR$/about_iteration.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_sandwich_code.rb" afterPath="$PROJECT_DIR$/about_sandwich_code.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="koans.iws" />
@@ -54,19 +55,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_iteration.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="about_iteration.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about_iteration.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="70" selection-start="3678" selection-end="3678" vertical-scroll-proportion="0.0" vertical-offset="1038" max-vertical-offset="2040">
+            <state line="129" column="59" selection-start="3814" selection-end="3814" vertical-scroll-proportion="0.9514563" vertical-offset="1053" max-vertical-offset="2085">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_blocks.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about_blocks.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_blocks.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="19" selection-start="2365" selection-end="2365" vertical-scroll-proportion="0.9029126" vertical-offset="543" max-vertical-offset="1530">
+            <state line="92" column="19" selection-start="2365" selection-end="2365" vertical-scroll-proportion="0.0" vertical-offset="543" max-vertical-offset="1530">
               <folding />
             </state>
           </provider>
@@ -84,7 +85,16 @@
       <file leaf-file-name="about_sandwich_code.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_sandwich_code.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680">
+            <state line="86" column="9" selection-start="2211" selection-end="2211" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="1755">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kernel.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/rubystubs21/kernel.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="387" column="8" selection-start="15208" selection-end="15208" vertical-scroll-proportion="0.0" vertical-offset="5501" max-vertical-offset="33630">
               <folding />
             </state>
           </provider>
@@ -122,8 +132,9 @@
         <option value="$PROJECT_DIR$/about_true_and_false.rb" />
         <option value="$PROJECT_DIR$/about_exceptions.rb" />
         <option value="$PROJECT_DIR$/triangle.rb" />
-        <option value="$PROJECT_DIR$/about_iteration.rb" />
         <option value="$PROJECT_DIR$/about_blocks.rb" />
+        <option value="$PROJECT_DIR$/about_sandwich_code.rb" />
+        <option value="$PROJECT_DIR$/about_iteration.rb" />
       </list>
     </option>
   </component>
@@ -288,7 +299,11 @@
       <created>1394918886101</created>
       <updated>1394918886101</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Completed about_blocks">
+      <created>1394929715012</created>
+      <updated>1394929715012</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -341,7 +356,8 @@
     <MESSAGE value="Completed about exceptions" />
     <MESSAGE value="Wrote the implementation for triangle class to handle incorrect triangles" />
     <MESSAGE value="Completed about_iteration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed about_iteration" />
+    <MESSAGE value="Completed about_blocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed about_blocks" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -425,30 +441,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example_file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="951">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/triangle.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="0" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_sandwich_code.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_iteration.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="70" selection-start="3678" selection-end="3678" vertical-scroll-proportion="0.0" vertical-offset="1038" max-vertical-offset="2040">
           <folding />
         </state>
       </provider>
@@ -462,7 +457,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_blocks.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="19" selection-start="2365" selection-end="2365" vertical-scroll-proportion="0.9029126" vertical-offset="543" max-vertical-offset="1530">
+        <state line="92" column="19" selection-start="2365" selection-end="2365" vertical-scroll-proportion="0.0" vertical-offset="543" max-vertical-offset="1530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="951">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs21/kernel.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="387" column="8" selection-start="15208" selection-end="15208" vertical-scroll-proportion="0.0" vertical-offset="5501" max-vertical-offset="33630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_sandwich_code.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="9" selection-start="2211" selection-end="2211" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="1755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_iteration.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="59" selection-start="3814" selection-end="3814" vertical-scroll-proportion="0.9514563" vertical-offset="1053" max-vertical-offset="2085">
           <folding />
         </state>
       </provider>

@@ -127,4 +127,7 @@ class AboutIteration < Neo::Koan
   #
   # When you get to the "AboutSandwichCode" koan, recheck your answer.
 
+  # Came back after AboutSandwichCode, having it in a block isolates the file open code
+  # so it can be reused in other operations
+
 end
