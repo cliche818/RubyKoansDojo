@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40be0a1f-b27f-4fb3-8aaa-7c015650da95" name="Default" comment="Completed about_class">
+    <list default="true" id="40be0a1f-b27f-4fb3-8aaa-7c015650da95" name="Default" comment="Completed about open classes">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_open_classes.rb" afterPath="$PROJECT_DIR$/about_open_classes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_dice_project.rb" afterPath="$PROJECT_DIR$/about_dice_project.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="koans.iws" />
@@ -27,15 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="triangle.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/triangle.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="0" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="about_iteration.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_iteration.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,16 +48,25 @@
       <file leaf-file-name="about_classes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_classes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="189" column="28" selection-start="4150" selection-end="4150" vertical-scroll-proportion="0.0" vertical-offset="1998" max-vertical-offset="2985">
+            <state line="177" column="28" selection-start="3808" selection-end="3808" vertical-scroll-proportion="0.0" vertical-offset="1998" max-vertical-offset="2985">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_open_classes.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about_open_classes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_open_classes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="21" selection-start="824" selection-end="824" vertical-scroll-proportion="0.63106793" vertical-offset="0" max-vertical-offset="927">
+            <state line="39" column="21" selection-start="824" selection-end="824" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_dice_project.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_dice_project.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="62" selection-start="1515" selection-end="1515" vertical-scroll-proportion="0.6763754" vertical-offset="333" max-vertical-offset="1260">
               <folding />
             </state>
           </provider>
@@ -146,6 +146,7 @@
         <option value="$PROJECT_DIR$/about_scoring_project.rb" />
         <option value="$PROJECT_DIR$/about_classes.rb" />
         <option value="$PROJECT_DIR$/about_open_classes.rb" />
+        <option value="$PROJECT_DIR$/about_dice_project.rb" />
       </list>
     </option>
   </component>
@@ -326,7 +327,11 @@
       <created>1394932391102</created>
       <updated>1394932391102</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Completed about open classes">
+      <created>1394932476104</created>
+      <updated>1394932476104</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -383,7 +388,8 @@
     <MESSAGE value="Completed about_sandwich_code and reanswered the question in about_iteration" />
     <MESSAGE value="Created the score method to calculate score for the greedy dice game" />
     <MESSAGE value="Completed about_class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed about_class" />
+    <MESSAGE value="Completed about open classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed about open classes" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -523,16 +529,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_classes.rb">
+    <entry file="file://$PROJECT_DIR$/about_open_classes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="189" column="28" selection-start="4150" selection-end="4150" vertical-scroll-proportion="0.0" vertical-offset="1998" max-vertical-offset="2985">
+        <state line="39" column="21" selection-start="824" selection-end="824" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_open_classes.rb">
+    <entry file="file://$PROJECT_DIR$/about_classes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="21" selection-start="824" selection-end="824" vertical-scroll-proportion="0.63106793" vertical-offset="0" max-vertical-offset="927">
+        <state line="177" column="28" selection-start="3808" selection-end="3808" vertical-scroll-proportion="0.0" vertical-offset="1998" max-vertical-offset="2985">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_dice_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="62" selection-start="1515" selection-end="1515" vertical-scroll-proportion="0.6763754" vertical-offset="333" max-vertical-offset="1260">
           <folding />
         </state>
       </provider>
