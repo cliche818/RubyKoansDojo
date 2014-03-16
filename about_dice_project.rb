@@ -13,7 +13,7 @@ class DiceSet
     @values = [] #each new roll resets the values
     i = 1
     while (i <= number)
-      @values << Random.rand(6)
+      @values << Random.rand(5) + 1
       i += 1
     end
   end
